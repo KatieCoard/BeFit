@@ -219,7 +219,8 @@
 .breadcrumbs-v3.img-v3 {
   background: url(../img/Harbour.jpg) no-repeat;
   background-size: cover;
-  background-position: center center;
+  /*background-position: center center;*/
+  background-position: center 30%;
 }
 
 .breadcrumbs-v3:after {
