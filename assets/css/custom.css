@@ -1,0 +1,29 @@
+/* Add here all your css styles (customizations) */
+
+.italic {
+    font-style: italic;
+}
+
+.accent {
+    border-bottom: 5px solid #72c02c;
+    padding-bottom: 12px;
+    display: inline-block;
+    font-weight: 900 !important;
+}
+
+.re-title-v1 {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-weight: 900;
+}
+
+body {
+    /*MULI */
+    font-family: 'Muli', sans-serif;
+    /*font: 1.05em/2em 'Muli', sans-serif;*/
+    font-weight: 300;
+    line-height: 1.8;
+    letter-spacing: .02em;
+    font-size: 14px;
+
+
+}
