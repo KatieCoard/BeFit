@@ -24,6 +24,10 @@ body {
     line-height: 1.8;
     letter-spacing: .02em;
     font-size: 14px;
+}
 
-
+.no-underline:hover, .no-underline:hover h2 {
+    text-decoration: none;
+    opacity: 0.8;
+    transition: 0.3s;
 }
